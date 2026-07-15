@@ -1,0 +1,73 @@
+{
+  "apps": {
+    "notepad": {
+      "path": "notepad.exe",
+      "process": "notepad.exe"
+    },
+    "microsoft word": {
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+      "process": "WINWORD.EXE"
+    },
+    "word": {
+      "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+      "process": "WINWORD.EXE"
+    },
+    "visual studio code": {
+      "path": "\"C:\\Users\\EyeKay\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk\"",
+      "process": "code.exe"
+    },
+    "code": {
+      "path": "\"C:\\Users\\EyeKay\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk\"",
+      "process": "code.exe"
+    },
+    "browser": {
+      "path": "\"C:\\\\Program Files (x86)\\\\Microsoft\\\\Edge\\\\Application\\\\msedge.exe\"",
+      "process": "msedge.exe"
+    },
+    "edge": {
+      "path": "\"C:\\\\Program Files (x86)\\\\Microsoft\\\\Edge\\\\Application\\\\msedge.exe\"",
+      "process": "msedge.exe"
+    },
+    "riot games": {
+      "path": "\"C:\\Riot Games\\Riot Client\\RiotClientServices.exe\"",
+      "process": "RiotClientServices.exe"
+    },
+    "chat": {
+      "uwp": "5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App",
+      "process": "WhatsApp.Root.exe"
+    }
+  },
+  "actions": [
+    "open",
+    "close"
+  ],
+  "standalone": {
+    "switch": "alt_mode",
+    "next": "alt_next",
+    "back": "alt_back",
+    "done": "alt_done",
+    "copy": "copy",
+    "paste": "paste",
+    "scroll up": "scroll_up",
+    "scroll down": "scroll_down",
+    "scrolling up": "scrolling_up",
+    "scrolling down": "scrolling_down",
+    "stop": "stop_scroll",
+    "page up": "page_up",
+    "page down": "page_down",
+    "exit": "exit",
+    "reload": "reload",
+    "close tab": "ctrlw",
+    "new tab": "ctrlt",
+    "lock": "lock",
+    "shutdown": "shutdown",
+    "fullscreen": "fullscreen",
+    "maximize": "fullscreen",
+    "minimize": "minimize",
+    "restore": "restore",
+    "close screen": "close_window",
+    "close window": "close_window",
+    "home": "home",
+    "end": "end"
+  }
+}
